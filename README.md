@@ -3,7 +3,7 @@
 🚀 iOS Engineer | Flutter | Tech & Business Enthusiast  
 
 I’m a software engineer passionate about building scalable mobile apps and exploring new business opportunities.  
-Currently working at **Dubizzle Labs**, focused on **iOS development for Lamudi (Indonesia & Philippines)**.  
+Currently working at **Dubizzle Labs**
 
 ---
 
@@ -21,7 +21,7 @@ Currently working at **Dubizzle Labs**, focused on **iOS development for Lamudi 
 </p>  
 
 ---
-
+<!--
 ## 📌 Featured Projects  
 
 ### 🔹 Mobile Development  
@@ -34,13 +34,18 @@ Currently working at **Dubizzle Labs**, focused on **iOS development for Lamudi 
 - [**iOS Utilities**](https://github.com/yourusername/ios-utils) – Helpful Swift utilities, extensions, and snippets I use in production apps.  
 
 ---
+-->
 
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight" height="165" />
-</p>  
+  <img src="https://github-readme-stats.vercel.app/api?username=saffizahid28&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saffizahid28&layout=compact&theme=tokyonight" height="165" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=saffizahid28&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
 ---
 
@@ -50,7 +55,7 @@ Currently working at **Dubizzle Labs**, focused on **iOS development for Lamudi 
   <a href="https://www.linkedin.com/in/saffi-zahid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:saffizahid.dev@gmail.com">
+  <a href="mailto:saffizahid@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>  
