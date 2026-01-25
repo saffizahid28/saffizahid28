@@ -204,15 +204,6 @@ BSc Computer Sciences | Sep 2019 - Jun 2023
 - 🚀 Passionate about developer tools that improve productivity
 - 📚 Always learning new iOS features and best practices
 
----
-
-## 📝 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- Coming soon: Technical articles on iOS architecture, performance optimization, and CI/CD
-<!-- BLOG-POST-LIST:END -->
-
----
 
 ## 🤝 Open to Opportunities
 
