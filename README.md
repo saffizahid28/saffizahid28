@@ -2,7 +2,7 @@
 
 ### Senior iOS & Flutter Engineer | Product-Minded Developer | Building Scalable Mobile Experiences
 
-🚀 **2+ years** building production apps for **1M+ users** across **10+ countries**  
+🚀 **3+ years** building production apps for **1M+ users** across **10+ countries**  
 💼 Previously at **Dubizzle Labs** (Bayut, Olx, Zameen, Lamudi)  
 📍 Lahore, Pakistan 🇵🇰 | Open to Remote Opportunities 🌍
 
